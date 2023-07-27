@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ESubrado, an experienced software development engineer.
 - 👀 I’m interested in developing Apps that's patterned with modern frameworks such as MERN (MongoDb, Express.js, React and NodeJS)
 - 🌱 I’m currently learning Javacript, HTML, CSS, React, MERN and an ISC2 Security Candidate. 
-- 💞️ I’m looking to collaborate people dealing with front end projects
+- 💞️ I’m looking to collaborate people dealing with front and back end projects
 - 📫 How to reach me, use my linkedIn account @ https://www.linkedin.com/in/eugene-jr-s-338aa2120/
 
 <!---
