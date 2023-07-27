@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ESubrado, An experienced software development engineer.
+- 👋 Hi, I’m @ESubrado, an experienced software development engineer.
 - 👀 I’m interested in developing Apps that's patterned with modern frameworks such as MERN (MongoDb, Express.js, React and NodeJS)
 - 🌱 I’m currently learning Javacript, HTML, CSS, React, MERN and an ISC2 Security Candidate. 
 - 💞️ I’m looking to collaborate people dealing with front end projects
